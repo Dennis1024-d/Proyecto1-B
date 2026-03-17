@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "gDNI/aPRUHYRRhoXIE9RFO7rjHR0iHdtDR8pMQjd2ZTvX9M/t4S8K3y4Y2HFgmH4yEPDreQuNkdl33tKwEQHHg==",
+  "dgSpecHash": "MdnwD+T8lbQ=",
   "success": true,
-  "projectFilePath": "/Users/mariale/Documents/GitHub/Proyecto1-B/Proyecto1-B/Proyecto1-B/Proyecto1-B.csproj",
+  "projectFilePath": "C:\\Users\\Lucrecia De Palacios\\Documents\\GitHub\\Proyecto mari\\Proyecto1-B\\Proyecto1-B\\Proyecto1-B.csproj",
   "expectedPackageFiles": [
-    "/Users/mariale/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
-    "/Users/mariale/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
-    "/Users/mariale/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+    "C:\\Users\\Lucrecia De Palacios\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Lucrecia De Palacios\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Lucrecia De Palacios\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Lucrecia De Palacios\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
   ],
   "logs": []
 }
