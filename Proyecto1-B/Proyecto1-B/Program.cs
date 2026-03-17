@@ -49,6 +49,7 @@ do
         Console.WriteLine("Presione ENTER para volver al menú...");
         Console.ReadLine();
     }
+    Console.Clear() ; 
 
 } while (menu != 5);
 
