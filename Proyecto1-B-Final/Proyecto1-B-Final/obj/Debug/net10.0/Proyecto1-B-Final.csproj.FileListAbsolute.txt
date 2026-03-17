@@ -1,0 +1,14 @@
+C:\Users\Lucrecia De Palacios\source\repos\Proyecto1-B-Final\Proyecto1-B-Final\bin\Debug\net10.0\Proyecto1-B-Final.exe
+C:\Users\Lucrecia De Palacios\source\repos\Proyecto1-B-Final\Proyecto1-B-Final\bin\Debug\net10.0\Proyecto1-B-Final.deps.json
+C:\Users\Lucrecia De Palacios\source\repos\Proyecto1-B-Final\Proyecto1-B-Final\bin\Debug\net10.0\Proyecto1-B-Final.runtimeconfig.json
+C:\Users\Lucrecia De Palacios\source\repos\Proyecto1-B-Final\Proyecto1-B-Final\bin\Debug\net10.0\Proyecto1-B-Final.dll
+C:\Users\Lucrecia De Palacios\source\repos\Proyecto1-B-Final\Proyecto1-B-Final\bin\Debug\net10.0\Proyecto1-B-Final.pdb
+C:\Users\Lucrecia De Palacios\source\repos\Proyecto1-B-Final\Proyecto1-B-Final\obj\Debug\net10.0\Proyecto1-B-Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucrecia De Palacios\source\repos\Proyecto1-B-Final\Proyecto1-B-Final\obj\Debug\net10.0\Proyecto1-B-Final.AssemblyInfoInputs.cache
+C:\Users\Lucrecia De Palacios\source\repos\Proyecto1-B-Final\Proyecto1-B-Final\obj\Debug\net10.0\Proyecto1-B-Final.AssemblyInfo.cs
+C:\Users\Lucrecia De Palacios\source\repos\Proyecto1-B-Final\Proyecto1-B-Final\obj\Debug\net10.0\Proyecto1-B-Final.csproj.CoreCompileInputs.cache
+C:\Users\Lucrecia De Palacios\source\repos\Proyecto1-B-Final\Proyecto1-B-Final\obj\Debug\net10.0\Proyecto1-B-Final.dll
+C:\Users\Lucrecia De Palacios\source\repos\Proyecto1-B-Final\Proyecto1-B-Final\obj\Debug\net10.0\refint\Proyecto1-B-Final.dll
+C:\Users\Lucrecia De Palacios\source\repos\Proyecto1-B-Final\Proyecto1-B-Final\obj\Debug\net10.0\Proyecto1-B-Final.pdb
+C:\Users\Lucrecia De Palacios\source\repos\Proyecto1-B-Final\Proyecto1-B-Final\obj\Debug\net10.0\Proyecto1-B-Final.genruntimeconfig.cache
+C:\Users\Lucrecia De Palacios\source\repos\Proyecto1-B-Final\Proyecto1-B-Final\obj\Debug\net10.0\ref\Proyecto1-B-Final.dll
