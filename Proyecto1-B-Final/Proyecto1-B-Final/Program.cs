@@ -192,13 +192,47 @@ do
             }
             break;
         case 3:
-            Console.WriteLine("PROCEDIMINETO C");
+            int espacios_ocupados = tickets_creados - tickets_cerrados;
+            espacios_disponibles = capacidad_total - espacios_ocupados;
+
+            Console.WriteLine("-------- ESTADO DEL PARQUEO --------");
+            Console.WriteLine("Capacidad total: " + capacidad_total);
+            Console.WriteLine("Espacios ocupados: " + espacios_ocupados);
+            Console.WriteLine("Espacios disponibles: " + espacios_disponibles);
+            Console.WriteLine("Tiempo simulado: " + tiempo_simulado + " minutos");
+            Console.WriteLine("Total recaudado: Q: " + dinero_recaudado);
+            Console.WriteLine("Tickets creados: " + tickets_creados);
+            Console.WriteLine("Tickets cerrados: " + tickets_cerrados);
             break;
         case 4:
-            Console.WriteLine("PROCEDIMINETO D");
+            Console.WriteLine("Ingrese la cantidad de minutos a simular (1-1440");
+            minutos_simular = int.Parse(Console.ReadLine());
+
+            while (minutos_simular < 1 || minutos_simular > 1400)
+            {
+                Console.WriteLine("El valor que ingresó no es válido. Debe ingresar minutos entre 1 y 1440:");
+                minutos_simular = int.Parse(Console.ReadLine());
+            }
+            tiempo_simulado = tiempo_simulado + minutos_simular;
+            Console.WriteLine("Tiempo simulado actual: " + tiempo_simulado + "minutos");
+
+            if (ticket_activo == true)
+            {
+                int tiempo_estacionado = tiempo_simulado - minuto_entrada;
+
+                if (tiempo_estacionado > 720)
+                {
+                    Console.WriteLine("El vehículo ha superado 12 horas. Se aplicará recargo por permanencia extrema.");
+                }
+                else if (tiempo_estacionado > 360)
+                {
+                    Console.WriteLine("El vehículo ha superado 6 horas. Se aplicará una multa pronto.");
+                }
+            }
+
             break;
         case 5:
-            Console.WriteLine("PROCEDIMINETO ");
+            Console.WriteLine("PROCEDIMINETO F");
             break;
         default:
             Console.WriteLine("Opción inválida");
@@ -213,4 +247,3 @@ do
     Console.Clear();
 
 } while (menu != 5);
-
